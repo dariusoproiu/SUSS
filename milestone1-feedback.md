@@ -1,0 +1,1 @@
+The RFC is OK, but for the next steps, diagram one game round end to end: separate game-state facts, retrieved statements and player memories, model interpretation, and validated actions; include what happens when evidence conflicts or no useful memory is retrieved.
